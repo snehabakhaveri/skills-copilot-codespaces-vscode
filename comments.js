@@ -1,2 +1,2 @@
 //create new web server
-//create in js
+//create in javascript
